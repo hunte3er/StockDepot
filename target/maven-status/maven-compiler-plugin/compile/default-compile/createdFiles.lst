@@ -1,0 +1,9 @@
+com\stockdepot\depot\Fee.class
+com\stockdepot\depot\Wallet.class
+com\stockdepot\depot\Stock.class
+com\stockdepot\test\Main.class
+com\stockdepot\depot\Depot.class
+com\stockdepot\depot\Portfolio.class
+com\stockdepot\depot\PortfolioTransaction.class
+com\stockdepot\depot\Transaction.class
+com\stockdepot\depot\WalletTransaction.class
